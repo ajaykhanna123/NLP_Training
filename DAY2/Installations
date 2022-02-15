@@ -1,0 +1,19 @@
+Nltk -
+pip install nltk
+nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('punkt')
+nltk.download('stopwords')
+
+Spacy -
+pip install spacy
+
+keras -
+pip install keras
+
+gensium -
+pip install gensim
+
+Lemmatization -
+pip install lemminflect

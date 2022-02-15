@@ -1,0 +1,26 @@
+Text Preprocessing Steps -
+https://medium.com/@ajay_khanna/the-steps-involved-in-text-preprocessing-for-nlp-algorithms-cf5b62993212
+
+Tokenization -
+https://medium.com/@ajay_khanna/tokenization-techniques-in-natural-language-processing-67bb22088c75
+https://necromuralist.github.io/text-processing/sphinx/_modules/nltk/tokenize/punkt.html#PunktSentenceTokenizer
+Code - https://colab.research.google.com/drive/1ChQWcaMozPnXotD_o2XWA-Bzgwi1sxLT?usp=sharing
+Punkt Code for rules - https://colab.research.google.com/drive/1k5FEe3FRGQC0vq2bvN8a6-EfqNRuYBZQ?usp=sharing
+
+lemmatization -
+https://medium.com/@ajay_khanna/different-lemmitization-techniques-in-python-9f5ae26437c4
+https://lemminflect.readthedocs.io/en/latest/accuracy/
+Code - https://colab.research.google.com/drive/1ARPVWdZ-fkn6ZGAeC3_QGVXBLPGRywkO?usp=sharing
+
+Stemming -
+https://medium.com/@ajay_khanna/different-techniques-of-stemming-a99d2fe8c08c
+Code links - https://colab.research.google.com/drive/1ggWOl3xzWDf0TrwW650PY9cuv9jpz7dK?usp=sharing
+
+
+
+
+
+
+
+
+
